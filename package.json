@@ -1,5 +1,5 @@
 {
-  "name": "sounds",
+  "name": "lingual",
   "version": "0.0.1",
   "description": "Implementing common phonetics algorithms for NodeJS ",
   "main": "index.js",
