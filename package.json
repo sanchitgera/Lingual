@@ -1,8 +1,9 @@
 {
   "name": "lingual",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Implementing common phonetics algorithms for NodeJS ",
   "main": "index.js",
+  "homepage": "https://www.github.com/sanchitgera/Lingual",
   "scripts": {
     "test": "mocha test"
   },
@@ -11,5 +12,20 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//sanchitgera/lingual"
+  },
+  "keywords": [
+    "Linguistics",
+    "Phonetics",
+    "Sounds"
+  ]
 }
