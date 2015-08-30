@@ -1,6 +1,8 @@
 # Lingual
 > Implementing common phonetics algorithms in NodeJS
 
+[![npm version](https://badge.fury.io/js/lingual.svg)](http://badge.fury.io/js/lingual)
+
 ## Getting it 
 
 Install the module via npm 
